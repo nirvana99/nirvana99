@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nirvana99
+- 👋 Hi, I’m Kartik Bhat
 - 👀 I’m interested in Data Science, Image Processing, Python and Linux System Administration
 - 🌱 I’m currently learning RHEL System Administration.
 - 💞️ I’m looking to collaborate on projects with scope in Machine Learning, Image Processing and projects in Python.
